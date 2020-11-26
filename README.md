@@ -23,6 +23,13 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 - [ ] Design System
 <br><br>
 
+### Top Languages
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosalome&show_icons=true&title_color=C93D3E&text_color=363636&&bg_color=F9F9F9)
+<br><br>
+
+
 ### My Personal Projects
 <br>
 
