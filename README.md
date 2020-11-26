@@ -42,6 +42,7 @@ A minimal, powerful and pluggable web scrapper. I created it using Node.js
 [Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
 
 We need to support semantic in web as developers, so I created this plugin for Atom to help its users to adopt semantic standards while creating web pages.
+<br><br>
 
 **Enjoy your time around!**
 <br><br>
