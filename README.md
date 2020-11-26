@@ -13,15 +13,34 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 <br><br>
 
 ### My Development Toolbelt
-<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Flutter" title="Flutter" src="https://user-images.githubusercontent.com/1680157/87443756-49c6ff80-c5cc-11ea-9052-ecd76bb5ce81.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/bootstrap.png" height="24">
+<br><img alt="JavaScript" title="JavaScript" src="https://user-images.githubusercontent.com/1680157/87443764-4af82c80-c5cc-11ea-82c2-c368ee12cf6d.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="CSS" title="CSS" src="https://user-images.githubusercontent.com/1680157/87443759-4a5f9600-c5cc-11ea-8ae0-715433c1f781.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="HTML" title="HTML" src="https://user-images.githubusercontent.com/1680157/87443762-4af82c80-c5cc-11ea-85cf-57be0e83c169.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="TypeScript" title="TypeScript" src="https://user-images.githubusercontent.com/1680157/87443766-4af82c80-c5cc-11ea-8a13-a651f150fa99.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt=" title=" title="Node.js" src="https://user-images.githubusercontent.com/1680157/87443758-4a5f9600-c5cc-11ea-8f63-92e126a1145b.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Flutter" title="Flutter" src="https://user-images.githubusercontent.com/1680157/87443756-49c6ff80-c5cc-11ea-9052-ecd76bb5ce81.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="VS Code" title="VS Code" src="https://user-images.githubusercontent.com/1680157/87443751-492e6900-c5cc-11ea-9854-f82d4d921133.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://user-images.githubusercontent.com/1680157/87443755-49c6ff80-c5cc-11ea-954a-579f7c72873a.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Bootstrap" title="Bootstrap" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/bootstrap.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="AWS" title="AWS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/aws.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Git" title="Git" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/git.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="jQuery" title="jQuery" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/jquery.png" height="24">
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/mysql.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="NodeJS" title="NodeJS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/node.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">
 <br><br>
 
 ### My Skills
 - [x] UX
-- [ ] UX Research
-- [ ] UI
-- [ ] Product Design
-- [ ] Design System
+- [x] UX Research
+- [x] UI
+- [x] Product Design
+- [x] Prototipação
+- [x] Wireframe
+- [x] Visual Design
+- [x] Etnografia
+- [x] Card Sorting
+- [x] Grupo Focal
+- [x] Persona
+- [x] Consumer Journey
+- [x] Teste de Usabilidade
+- [x] DCU
+- [x] Analytics
+- [x] Storytelling
+- [x] Storyboard
+
 <br><br>
 
 ### Top Languages
@@ -32,36 +51,36 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 
 
 ### My Personal Projects
-<br>
+<br><br>
 
-**[Sergio Silva](https://sergiobsilva.github.io/ux/)**
+**[Portfólio Sergio Silva](https://sergiobsilva.github.io/ux/)**
 
 A channel on Telegram where I share exclusive content for people that has interest to hear me text about Web Development, Software Career, and Technology, and many others V.I.P. Content.Content.
 
 
 My Newsletter is a place where I combine the content that I create about Web Development, Software Career, and Technology plus Job Roles, Upcoming Events, and many others V.I.P. Content.
 
-**[SeuJob.Tech](https://seujob.tech)**
+**[AgilFap 2.0](https://sergiobsilva.github.io/ux/pages/agilfap-portfolio.html)**
 
 SeuJob.Tech is a place that index the best job openings in Brazil for Software Developers.
 
-[Minas Dev](https://minasdev.org)
+**[DELIV](https://sergiobsilva.github.io/ux/pages/deliv.html)**
 
 Minas Dev is a Brazilian community for developer folks where I am Community Lead and co-founder.
 
-**[Listtta](https://listtta.com)**
+**[Native Landing Page](https://sergiobsilva.github.io/ux/pages/native.html)**
 
 Listtta is an improved and minimal way to use Twitter that I created to filter the content based in our real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
 
 ### Contact
-
+<br><br>
 * Website: [https://sergiobsilva.github.io/ux/](https://sergiobsilva.github.io/ux/)
 * LinkedIn: [https://www.linkedin.com/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/)
 * Email: sergiobslva@gmail.com
 * Whatsapp: [+55 84 988 176 770](https://api.whatsapp.com/send?phone=5584988176770)
 <br><br><br>
 
-**Enjoy your time around!**
+### Enjoy your time around!
 <br><br>
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
