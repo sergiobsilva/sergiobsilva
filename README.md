@@ -35,13 +35,12 @@ Minas Dev is a Brazilian community for developer folks where I am Community Lead
 
 Listtta is an improved and minimal way to use Twitter that I created to filter the content based in our real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
 
-**[Tatooine](https://github.com/obetomuniz/tatooine)**
+**[Feel free to contact me via](#)**
 
-A minimal, powerful and pluggable web scrapper. I created it using Node.js
-
-[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
-
-We need to support semantic in web as developers, so I created this plugin for Atom to help its users to adopt semantic standards while creating web pages.
+* Website: [https://sergiobsilva.github.io/ux/](https://sergiobsilva.github.io/ux/)
+* LinkedIn: [https://www.linkedin.com/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/)
+* Email: sergiobslva@gmail.com
+* Whatsapp: [+55 84 988 176 770](https://api.whatsapp.com/send?phone=5584988176770)
 <br><br>
 
 **Enjoy your time around!**
