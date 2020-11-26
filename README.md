@@ -41,7 +41,7 @@ Listtta is an improved and minimal way to use Twitter that I created to filter t
 * LinkedIn: [https://www.linkedin.com/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/)
 * Email: sergiobslva@gmail.com
 * Whatsapp: [+55 84 988 176 770](https://api.whatsapp.com/send?phone=5584988176770)
-<br><br>
+<br><br><br>
 
 **Enjoy your time around!**
 <br><br>
