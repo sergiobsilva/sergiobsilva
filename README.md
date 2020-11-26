@@ -21,6 +21,7 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 <br><br>
 
 ### My Skills
+<br>
 - [x] UX
 - [x] UX Research
 - [x] UI
