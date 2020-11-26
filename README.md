@@ -7,8 +7,8 @@ I'm **Sérgio Silva**, a UX / UI / UX Research / Frontend Engineer who lives in 
 Inspired by web technologies, **I am always contributing to the community** with [portfolio](https://sergiobsilva.github.io/ux/), [projects](https://github.com/sergiobsilva), and [talks](https://speakerdeck.com/sergiobsilva).
 
 Currently, I work at **[Neurotech](https://www.neurolake.io/index.html)**. 
-
 <br><br>
+
 To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, **[Telegram](https://t.me.com/)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
 <br><br>
 
@@ -70,10 +70,10 @@ Minas Dev is a Brazilian community for developer folks where I am Community Lead
 **[Native Landing Page](https://sergiobsilva.github.io/ux/pages/native.html)**
 
 Listtta is an improved and minimal way to use Twitter that I created to filter the content based in our real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
-<br>
+<br><br>
 
-### Contact
-<br>
+### Contact <br>
+
 * Website: [https://sergiobsilva.github.io/ux/](https://sergiobsilva.github.io/ux/)
 * LinkedIn: [https://www.linkedin.com/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/)
 * Email: sergiobslva@gmail.com
