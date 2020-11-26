@@ -50,7 +50,7 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 
 
 ### My Personal Projects
-<br><br>
+<br>
 
 **[Portfólio Sergio Silva](https://sergiobsilva.github.io/ux/)**
 
@@ -72,7 +72,7 @@ Minas Dev is a Brazilian community for developer folks where I am Community Lead
 Listtta is an improved and minimal way to use Twitter that I created to filter the content based in our real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
 
 ### Contact
-<br><br>
+<br>
 * Website: [https://sergiobsilva.github.io/ux/](https://sergiobsilva.github.io/ux/)
 * LinkedIn: [https://www.linkedin.com/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/)
 * Email: sergiobslva@gmail.com
