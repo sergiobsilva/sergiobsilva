@@ -20,8 +20,8 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">
 <br><br>
 
-### My Skills
-<br>
+### My Skills <br>
+
 - [x] UX
 - [x] UX Research
 - [x] UI
