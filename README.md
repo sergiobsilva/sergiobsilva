@@ -1,4 +1,4 @@
-### Sérgio Silva
+## Sérgio Silva
 
 **sergiobsilva/sergiobsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -8,7 +8,7 @@ Inspired by web technologies, **I am always contributing to the community** with
 
 Currently, I work at **[Neurotech](https://www.neurolake.io/index.html)**. 
 
-<br><br><br>
+<br><br>
 To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, **[Telegram](https://t.me.com/)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
 <br><br>
 ### ⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt
