@@ -1,6 +1,5 @@
-## Sérgio Silva
+### Sérgio Silva
 
-<!--
 **sergiobsilva/sergiobsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm **Sérgio Silva**, a UX / UI / UX Research / Frontend Engineer who lives in Recife, Brazil.
@@ -43,5 +42,3 @@ A minimal, powerful and pluggable web scrapper. I created it using Node.js
 💻&nbsp;&nbsp;[Semantic Web Autocomplete for Atom](https://github.com/obetomuniz/autocomplete-semantic-web)
 
 We need to support semantic in web as developers, so I created this plugin for Atom to help its users to adopt semantic standards while creating web pages.
-
--->
