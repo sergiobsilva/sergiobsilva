@@ -43,4 +43,9 @@ A minimal, powerful and pluggable web scrapper. I created it using Node.js
 
 We need to support semantic in web as developers, so I created this plugin for Atom to help its users to adopt semantic standards while creating web pages.
 
+**Enjoy your time around!**
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+
 <img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sergiobsilva&theme=" data-canonical-src="https://github-readme-stats.vercel.app/api?username=sergiobsilva&amp;show_icons=true&amp;hide_border=true" style="max-width:100%;">
