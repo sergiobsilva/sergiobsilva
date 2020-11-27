@@ -80,8 +80,6 @@ Listtta is an improved and minimal way to use Twitter that I created to filter t
 * Whatsapp: [+55 84 988 176 770](https://api.whatsapp.com/send?phone=5584988176770)
 <br><br>
 
-### Enjoy your time around! <br>
-
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
