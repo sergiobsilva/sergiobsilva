@@ -27,15 +27,15 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 - [x] UX Research
 - [x] UI
 - [x] Product Design
-- [x] Prototipação
+- [x] Prototype
 - [x] Wireframe
 - [x] Visual Design
-- [x] Etnografia
+- [x] Ethnography
 - [x] Card Sorting
-- [x] Grupo Focal
+- [x] Focal Group
 - [x] Persona
 - [x] Consumer Journey
-- [x] Teste de Usabilidade
+- [x] Usability Test
 - [x] DCU
 - [x] Analytics
 - [x] Storytelling
