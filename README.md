@@ -4,9 +4,9 @@
 
 I'm **Sérgio Silva**, a UX / UI / UX Research / Frontend Engineer who lives in Recife, Brazil.
 
-Inspired by web technologies, **I am always contributing to the community** with [portfolio](https://sergiobsilva.github.io/ux/), [projects](https://github.com/sergiobsilva), and [talks](https://speakerdeck.com/sergiobsilva).
+Inspired by web technologies, **I am always contributing to the community** with [portfolio](https://sergiobsilva.github.io/ux/), [projects](https://github.com/sergiobsilva).
 
-Currently, I work at **[Neurotech](https://www.neurolake.io/index.html)**. 
+Currently, I work at **[Accenture](https://www.accenture.com/br-pt)**. 
 <br><br>
 
 To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, **[Telegram](https://t.me.com/)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
