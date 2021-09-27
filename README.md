@@ -6,10 +6,10 @@ I'm **Sérgio Silva**, a UX / UI / UX Research / Frontend Engineer who lives in 
 
 Inspired by web technologies, **I am always contributing to the community** with [portfolio](https://sergiobsilva.github.io/ux/), [projects](https://github.com/sergiobsilva).
 
-Currently, I work at **[Accenture](https://www.accenture.com/br-pt)**. 
+Currently, I work at **[Tembici](https://www.tembici.com.br/)**. 
 <br><br>
 
-To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, **[Telegram](https://t.me.com/)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
+To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, **[Telegram](https://t.me.com/sergioslva)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
 <br><br>
 
 ### My Development Toolbelt
@@ -53,14 +53,17 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 ### My Personal Projects
 <br>
 
-**[Portfólio Sergio Silva](https://sergiobsilva.github.io/ux/)**
+**[Portfólio Sergio Silva](https://sergiobsilva.github.io/ux/portfolio-pt-br_.pdf)**
 
-A channel on Telegram where I share exclusive content for people that has interest to hear me text about Web Development, Software Career, and Technology, and many others V.I.P. Content.Content.
+Currently, Product Designer at Tembici, I'm a UX Designer, Researcher and enthusiast of sciences that study human behavior, such as: Anthropology, Psychology, Neuroscience, Learning Psychology and others. With about 4 years of experience with UX and creating digital products, I worked for about 12 years with Software Development, working from requirements analysis processes (Product Management) to application deployment (Frontend).
 
+Professional UX / UI / Researcher with multiple skills in software development, with maturity to assist in designing quality digital products with a holistic view of software development. Always looking for new knowledge and maturing professionally.
 
-My Newsletter is a place where I combine the content that I create about Web Development, Software Career, and Technology plus Job Roles, Upcoming Events, and many others V.I.P. Content.
+Currently mentoring UX careers in UX Mentory and PretUX initiatives, helping people with their allocation within the UX market and others as well.
 
-**[AgilFap 2.0](https://sergiobsilva.github.io/ux/pages/agilfap-portfolio.html)**
+Would you like to talk about something? UX, Design, Technology and Research? Talk to me!
+
+**[AgilFap 2.0](https://agil.facepe.br/)**
 
 SeuJob.Tech is a place that index the best job openings in Brazil for Software Developers.
 
