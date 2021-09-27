@@ -63,17 +63,31 @@ Currently mentoring UX careers in UX Mentory and PretUX initiatives, helping peo
 
 Would you like to talk about something? UX, Design, Technology and Research? Talk to me!
 
+
 **[AgilFap 2.0](https://agil.facepe.br/)**
 
-SeuJob.Tech is a place that index the best job openings in Brazil for Software Developers.
+Before prototyping, we collect feedback from users (Internal / External)
+Based on feedbacks we build Proto-Personas we gather and compare previous information, we brought the Steakholders closer, process-based routines and not just personal experiences. We carried out Security & Consistency surveys of information, we brought ways to test prototypes closer to the user's reality!
+
+I worked as UX Research / Product Management / UX Designer / Visual Design / User Interface Design / Dev Frontend
+
+
+**[RegistraPet](https://sergiobsilva.github.io/ux/#)**
+
+The idea was to develop an application that would be able to issue a birth certificate for Pets, for the DF notary.
+The objective of this project was to design the product interface for mobile platform only, developed in web app (react), hybrid app with a single interface for android and ios apps.
+
+Deliverables: interface, icon files, styleguide, user manual and application for developers.
 
 **[DELIV](https://sergiobsilva.github.io/ux/pages/deliv.html)**
 
-Minas Dev is a Brazilian community for developer folks where I am Community Lead and co-founder.
+Multiplatform mobile app project made in IonicJS, with the purpose of delivering a product interface, with surveys and handoff for project creation.
+
+I worked as UX Research / Product Management / UX Designer / Visual Design / User Interface Design / Dev Frontend
 
 **[Native Landing Page](https://sergiobsilva.github.io/ux/pages/native.html)**
 
-Listtta is an improved and minimal way to use Twitter that I created to filter the content based in our real interests instead of unnecessary notification spamming. I created it using Flutter exploring the Twitter Lists feature.
+OnePage project for Design studio, aiming to create a conversion product with lead capture page for the studio. The proposal was for a responsive web page, with the proposal only for Interface.
 <br><br>
 
 ### Contact <br>
