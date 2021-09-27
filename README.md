@@ -2,7 +2,7 @@
 
 **sergiobsilva/sergiobsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm **Sérgio Silva**, a UX / UI / UX Research / Frontend Engineer who lives in Recife, Brazil.
+I'm **Sérgio Silva**, a UX / UI / UX Research / Frontend Engineer who lives in Brazilian, Brazil.
 
 Inspired by web technologies, **I am always contributing to the community** with [portfolio](https://sergiobsilva.github.io/ux/), [projects](https://github.com/sergiobsilva).
 
