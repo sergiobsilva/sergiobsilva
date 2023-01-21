@@ -20,7 +20,7 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">
 &nbsp;&nbsp;<img alt="Angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="26">
 &nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/128px-Figma-logo.svg.png" height="26">
-&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="(https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/128px-Adobe_Photoshop_CC_icon.svg.png" height="26">
+&nbsp;&nbsp;<img alt="Photoshop" title="Photoshop" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/128px-Adobe_Photoshop_CC_icon.svg.png" height="26">
 <br><br>
 
 ### My Skills <br>
