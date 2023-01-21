@@ -6,7 +6,7 @@ I'm **Sérgio Silva**, a UX / UI / UX Research / Frontend Engineer who lives in 
 
 Inspired by web technologies, **I am always contributing to the community** with [portfolio](https://sergiobsilva.github.io/ux/), [projects](https://github.com/sergiobsilva).
 
-Currently, I work at **[Tembici](https://www.tembici.com.br/)**. 
+Currently, I work at **[Banco Next](https://next.me/)**. 
 <br><br>
 
 To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, **[Telegram](https://t.me.com/sergioslva)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
@@ -19,6 +19,7 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="MySQL" title="MySQL" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/mysql.png" height="24">
 &nbsp;&nbsp;&nbsp;&nbsp;<img alt="SaSS" title="SaSS" src="https://raw.githubusercontent.com/thiagosalome/technologies-icons/master/sass.png" height="24">
 &nbsp;&nbsp;<img alt="Angular" title="Angular" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="26">
+&nbsp;&nbsp;<img alt="Figma" title="Figma" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" height="26">
 <br><br>
 
 ### My Skills <br>
