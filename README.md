@@ -2,14 +2,14 @@
 
 **sergiobsilva/sergiobsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I'm **Sérgio Silva**, a UX / UI / UX Research / Frontend Engineer who lives in Brazilian, Brazil.
+I'm **Sérgio Silva**, a Product Designer / Frontend Engineer who lives in Brazilian, Brazil.
 
-Inspired by web technologies, **I am always contributing to the community** with [portfolio](https://sergiobsilva.github.io/ux/), [projects](https://github.com/sergiobsilva).
+Inspired by web technologies, **I am always contributing to the community** with [portfolio](https://sergiobsilva.github.io/ux/docs/portfolio_2022-2023.pdf), [projects](https://github.com/sergiobsilva).
 
 Currently, I work at **[Banco Next](https://next.me/)**. 
 <br><br>
 
-To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, **[Telegram](https://t.me.com/sergioslva)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
+To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/docs/portfolio_2022-2023.pdf)**, **[Telegram](https://t.me.com/sergioslva)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
 <br><br>
 
 ### My Development Toolbelt
@@ -26,17 +26,16 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 
 ### My Skills <br>
 
-- [x] UX
-- [x] UX Research
-- [x] UI
 - [x] Product Design
+- [x] UX Design
+- [x] UX Research
+- [x] UI Design
 - [x] Prototype
 - [x] Wireframe
 - [x] Visual Design
 - [x] Ethnography
 - [x] Card Sorting
 - [x] Focal Group
-- [x] Persona
 - [x] Consumer Journey
 - [x] Usability Test
 - [x] DCU
@@ -56,7 +55,7 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/)**, 
 ### My Personal Projects
 <br>
 
-**[Portfólio Sergio Silva](https://sergiobsilva.github.io/ux/portfolio-pt-br_.pdf)**
+**[Portfólio Sergio Silva](https://sergiobsilva.github.io/ux/docs/portfolio_2022-2023.pdf)**
 
 Currently, Product Designer at Tembici, I'm a UX Designer, Researcher and enthusiast of sciences that study human behavior, such as: Anthropology, Psychology, Neuroscience, Learning Psychology and others. With about 4 years of experience with UX and creating digital products, I worked for about 12 years with Software Development, working from requirements analysis processes (Product Management) to application deployment (Frontend).
 
