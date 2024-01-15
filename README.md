@@ -52,7 +52,7 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/docs/
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/RodrigoHenrique07">
+  <a href="[https://github.com/RodrigoHenrique07](https://github.com/sergiobsilva/)">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=RodrigoHenrique07&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoHenrique07&layout=compact&langs_count=7&theme=dracula"/>
 </div>
