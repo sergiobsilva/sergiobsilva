@@ -48,15 +48,11 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/docs/
 ### Top Languages
 
 <!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosalome&show_icons=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=sergiobsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobsilva&layout=compact&langs_count=7&theme=dracula)
-
 <div align="center">
   <a href="https://github.com/sergiobsilva/">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosalome&show_icons=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sergiobsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobsilva&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosalome&show_icons=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiobsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobsilva&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
