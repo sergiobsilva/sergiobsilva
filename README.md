@@ -48,9 +48,9 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/docs/
 ### Top Languages
 
 <!-- Top Languages -->
-<div align="center">
+<div>
   <a href="https://github.com/sergiobsilva/">
-    <img height="200em" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosalome&show_icons=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
+    <img height="200em" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobsilva&show_icons=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
     <img height="200em" width="33%" src="https://github-readme-stats.vercel.app/api?username=sergiobsilva&show_icons=true&include_all_commits=true&count_private=true&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
     <img height="200em" width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobsilva&layout=compact&langs_count=7&title_color=6DBAFA&text_color=FFFFFF&&bg_color=000000"/>
   </a>
