@@ -49,12 +49,11 @@ To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/docs/
 
 <!-- Top Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosalome&show_icons=true&title_color=C93D3E&text_color=363636&&bg_color=F9F9F9)
-<br><br>
-
 <div align="center">
   <a href="https://github.com/sergiobsilva/">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sergiobsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobsilva&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=sergiobsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiobsilva&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
 
