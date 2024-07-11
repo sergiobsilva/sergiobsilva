@@ -6,7 +6,7 @@ I'm **Sérgio Silva**, a Product Designer / Frontend Engineer who lives in Brazi
 
 Inspired by web technologies, **I am always contributing to the community** with [portfolio](https://sergiobsilva.github.io/ux/docs/portfolio_2022-2023.pdf), [projects](https://github.com/sergiobsilva).
 
-Currently, I work at **[Banco Next](https://next.me/)**. 
+Currently, I work at **[Sonda IT @ Caixa Econômica Federal](https://www.caixa.gov.br/)**. 
 <br><br>
 
 To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/docs/portfolio_2022-2023.pdf)**, **[Telegram](https://t.me.com/sergioslva)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
