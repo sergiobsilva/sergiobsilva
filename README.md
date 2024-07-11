@@ -96,10 +96,9 @@ OnePage project for Design studio, aiming to create a conversion product with le
 
 ### Contact <br>
 
-* Website: [https://sergiobsilva.github.io/ux/](https://sergiobsilva.github.io/ux/)
 * LinkedIn: [https://www.linkedin.com/in/sergiobslva/](https://www.linkedin.com/in/sergiobslva/)
 * Email: sergiobslva@gmail.com
-* Whatsapp: [+55 84 988 176 770](https://api.whatsapp.com/send?phone=5584988176770)
+* Whatsapp: [+55 61 98501-6770](https://api.whatsapp.com/send?phone=5561985016770)
 <br><br>
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
