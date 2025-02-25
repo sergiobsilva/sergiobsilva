@@ -9,7 +9,7 @@ Inspired by web technologies, **I am always contributing to the community** with
 Currently, I work at **[Sonda IT @ Caixa Econômica Federal](https://www.caixa.gov.br/)**. 
 <br><br>
 
-To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/docs/portfolio_2022-2023.pdf)**, **[Telegram](https://t.me.com/sergioslva)** and **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)**.
+To know more, follow me on **[Portfolio](https://sergiobsilva.github.io/ux/docs/portfolio_2022-2023.pdf)**, **[Telegram](https://t.me.com/sergioslva)**, **[LinkedIn](https://www.linkedin.com/in/sergiobslva/)** and **[61-985016770](https://wa.link/mnbsyo)**.
 <br><br>
 
 ### My Development Toolbelt
