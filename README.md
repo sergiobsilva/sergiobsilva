@@ -3,7 +3,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.link/mnbsyo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoclay/)]([https://www.linkedin.com/in/gustavoclay/](https://www.linkedin.com/in/sergiobslva/))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiobslva@gmail.com)](mailto:sergiobslva@gmail.com)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfólio-UX-61DAFB)](https://sergiobsilva.github.io/ux/)
+[![Portfolio Badge](https://img.shields.io/badge/-PortfolioUX-lightblue)](https://sergiobsilva.github.io/ux/)
 
 **sergiobsilva/sergiobsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
