@@ -1,6 +1,6 @@
 ## Sérgio Silva
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gustavoclay)](https://github.com/sergiobsilva)
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/mnbsyo)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://wa.link/mnbsyo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavoclay/)]([https://www.linkedin.com/in/gustavoclay/](https://www.linkedin.com/in/sergiobslva/))
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiobslva@gmail.com)](mailto:sergiobslva@gmail.com)
 
